@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://myr-picton.github.io/battleline-legal/sitemap.xml
